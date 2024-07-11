@@ -60,4 +60,3 @@ Acknowledgements
 3. **Consistency**: Menggunakan format yang konsisten untuk semua bagian, termasuk perintah instalasi dan kontribusi.
 4. **Acknowledgements**: Menambahkan tautan ke sumber daya yang digunakan dalam proyek.
 
-Ini akan membuat README.md Anda lebih profesional dan mudah dibaca. Pastikan untuk mengganti `username` dengan nama pengguna GitHub Anda yang sebenarnya.
