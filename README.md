@@ -16,7 +16,7 @@ Follow these steps to set up the project locally.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/username/react-cyber-attacks.git
+   git clone https://github.com/Aleale0612/react-cyber-attacks.git
    cd react-cyber-attacks
 
 2. **Install Dependencies:**
